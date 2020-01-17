@@ -1,7 +1,4 @@
-All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/).
+My Mental Palace
+[Markdown](https://guides.github.com/features/mastering-markdown/). Here for reference 
 
-![Image of fast.ai logo](images/logo.png)
-
-## Initial Blog Post 
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file.
+Click here for a much better blog, and my inspiration: [SlateStarCodex](https://www.slatestarcodex.com). 
